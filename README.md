@@ -98,3 +98,7 @@ PROMPT.md     the exact prompt used
 ## Browser support
 
 Chrome, Edge, Firefox, Safari (current and previous major). Uses `IntersectionObserver`, `navigator.share` and `backdrop-filter` with graceful fallbacks for each.
+
+## Live Demo
+
+?? **Live Website:** https://meek-taffy-c94458.netlify.app
